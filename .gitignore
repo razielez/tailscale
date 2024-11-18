@@ -49,3 +49,4 @@ client/web/build/assets
 *.xcworkspacedata
 /tstest/tailmac/bin
 /tstest/tailmac/build
+.idea/
